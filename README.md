@@ -39,6 +39,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 The sample PDF file used in this example was obtained from the MIT OpenCourseWare website. The document is titled "Introduction to Computer Science and Programming in Python" and is part of the course materials for the MIT course 6.0001. 
 
-You can access the PDF file [here](link-to-the-pdf-file).
+You can access the PDF file [here](data).
 
 Please note that the document is used for demonstration purposes only and is subject to copyright by MIT.
