@@ -18,7 +18,7 @@ The **Llama-Index-Semantic-PDF-Summarizer** is a Python code that utilizes the L
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Llama-Index-Semantic-PDF-Summarizer.git
+   git clone [https://github.com/your-username/Llama-Index-Semantic-PDF-Summarizer.git](https://github.com/Mitajoshi/Llama-Index-Semantic-PDF-Summarizer.git)
    ```
 
 ### Usage
